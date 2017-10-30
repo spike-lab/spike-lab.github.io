@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "mint" #"default", "air", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Spike SpA"
 title_separator          : "-"
 name                     : "SpikeLab"
-description              : "A darle átomos"
+description              : "En Spike hacemos analítica avanzada de grandes volúmenes de datos. Nos enfocamos en la resolución de problemas complejos en distintas industrias y dominios, mediante la experimentación e integración de grandes cantidades de datos, usando técnicas de data mining, machine learning y metodologías ágiles."
 url                      : "https://spike-lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "spike-lab/spike-lab.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/logo-circle-grey.png# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Team Spike"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : ""
+  location         : "Santiago del Nuevo Extremo, Chile"
+  email            : cdagnino@spikelab.xyz
   uri              :
   bitbucket        :
   codepen          :
