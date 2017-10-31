@@ -19,7 +19,7 @@ description              : "En Spike hacemos anal√≠tica avanzada de grandes vol√
 url                      : "https://spike-lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "spike-lab/spike-lab.github.io"
-teaser                   : /assets/images/logo-circle-grey.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/logo-circle-grey.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
