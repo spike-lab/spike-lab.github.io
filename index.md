@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
+  overlay_image: /assets/images/blue_br.png
+  cta_label: "<i class='fa fa-download'></i> Mensaje"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'En Spike hacemos analítica avanzada de grandes volúmenes de datos. Nos enfocamos en la resolución de problemas complejos en distintas industrias y dominios, mediante la experimentación e integración de grandes cantidades de datos, usando técnicas de data mining, machine learning y metodologías ágiles.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.6.0">Latest release v4.6.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'En Spike hacemos analítica avanzada de grandes volúmenes de datos. Nos enfocamos en la resolución de problemas complejos en distintas industrias y dominios, mediante la experimentación e integración de datos, usando técnicas de data mining, machine learning y metodologías ágiles.'
 feature_row:
-  - image_path: /assets/images/mm-home-page-feature.jpg
+  - image_path: /assets/images/logo-circle-dark.png
     alt: "customizable"
     title: "Super Customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
